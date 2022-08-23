@@ -1,2 +1,6 @@
-# COMPV2022-G9
-Integrantes: Anielka Lizbeth Guevara Murillo. Carnet:18903750. Maycol Enrique Polanco Mendez. Carnet:18904167.  Desarrollo de un sistema Web de facturación para la distribuidora de alimentos “Mi Granja #2”, ubicada en el municipio de Ticuantepe departamento de Managua. En tal sentido este proyecto tiene como objetivo proponer implementar un sistema web transaccional en la distribuidora de alimentos “Mi Granja #2”, que permita llevar el control de la información de una manera eficaz y agilizar los principales procesos internos tales como (compras, ventas, generar reportes) los que en la actualidad se realizan de manera manual en la distribuidora.
+integrantes
+
+Danilo Martin Espinoza Martinez 
+Oswaldo Daniel Galan Pavon 
+tema:   sistema web transacional 	
+sistema web transaccional de facturacion para tienda de suplementos deportivos llamada sport time ubicada en la ciudad de jinotepe del departamento de carazo.	
